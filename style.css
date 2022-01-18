@@ -1,0 +1,18 @@
+img {
+    z-index: 1;
+    position: absolute;
+}
+.kotakputih {
+    background-color: white;
+    z-index: 2;
+    width: 700px;
+    height: 800px;
+    float: right;
+    margin : 10px;
+    position: relative;
+    font-weight: bold;
+    text-align: right;
+    padding : 10px;
+
+
+}
